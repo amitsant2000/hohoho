@@ -1,0 +1,17 @@
+{
+  "name": "hohoho",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-imagepicker": "^2.0.0",
+    "react-native-maps": "^0.21.0",
+    "react-native-roll-picker": "^1.0.6",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^1.2.1"
+  }
+}
